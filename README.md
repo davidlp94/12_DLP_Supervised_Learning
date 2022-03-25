@@ -1,4 +1,4 @@
-# Peer-To_Peer Lending Firm - Liner Regression Models
+# Peer-To-Peer Lending Firm - Linear Regression Models
 
 ## Overview of the Analysis
 
