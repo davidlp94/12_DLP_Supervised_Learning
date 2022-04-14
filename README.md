@@ -8,6 +8,8 @@ Using the value_counts function on the targets, (2) labels amd numbers are gener
 
 The main model this application uses is the linear regression model that generates a line that trends with the overall data and uses that to predict which loans are healthy or unhealthy and compares the outcome of the model with the data set. Re-Sampling and re-training the model randomly and over samples the existing data and re-tests the model again in which theoretically the accuracy and precision of the resampled data with higher accuracy.
 
+Live application link: https://github.com/davidlp94/12_DLP_Supervised_Learning/blob/main/credit_risk_resampling.ipynb
+
 ---
 
 ## Results
